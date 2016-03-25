@@ -1,0 +1,10 @@
+name=AmiGoDev
+password=
+room=English Room
+mode=auto
+automatch.speed=blitz,medium
+automatch.rank=20k
+verbose=t
+gtp.in=/tmp/in
+gtp.out=/tmp/out
+#engine=/home/wms/src/gnugo-3.4/interface/gnugo --mode gtp
